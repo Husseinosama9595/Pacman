@@ -1,0 +1,203 @@
+﻿  Source.cpp
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(50,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(68,23): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(68,65): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(79,23): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(79,65): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(89,23): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(89,58): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(98,23): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(98,58): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(113,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(113,44): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(131,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(131,44): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(166,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(265,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(266,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(267,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(270,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(273,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(281,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(281,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(282,48): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(283,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(283,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(341,54): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(342,46): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(343,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(344,52): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(345,46): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(346,54): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(420,18): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(421,18): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(425,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(425,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(452,24): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(453,24): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(638,79): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(638,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(638,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(638,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(639,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(640,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(640,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(641,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(642,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(642,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(667,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(667,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(693,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(693,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(698,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(698,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\husse\source\repos\pacman sp project\Source.cpp(712,68): warning C4305: 'argument': truncation from 'double' to 'float'
+  pacman sp project.vcxproj -> C:\Users\husse\source\repos\pacman sp project\Debug\pacman sp project.exe
